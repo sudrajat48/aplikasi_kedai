@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309479824135",
+    "project_id": "aplikasi-kedai",
+    "storage_bucket": "aplikasi-kedai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309479824135:android:e47a878f2b6678bc4783a2",
+        "android_client_info": {
+          "package_name": "com.aplikasi_kedai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309479824135-l1g357haspo49l37397m53dpk39bibpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxCMqL6H_WzVRA7VV5zzwu8j4vu_ErrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309479824135-l1g357haspo49l37397m53dpk39bibpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
